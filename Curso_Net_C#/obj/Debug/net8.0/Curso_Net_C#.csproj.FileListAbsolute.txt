@@ -1,0 +1,14 @@
+C:\Users\ernes\Desktop\Proyectos_VS\Curso_Net_C#\Curso_Net_C#\bin\Debug\net8.0\Curso_Net_C#.exe
+C:\Users\ernes\Desktop\Proyectos_VS\Curso_Net_C#\Curso_Net_C#\bin\Debug\net8.0\Curso_Net_C#.deps.json
+C:\Users\ernes\Desktop\Proyectos_VS\Curso_Net_C#\Curso_Net_C#\bin\Debug\net8.0\Curso_Net_C#.runtimeconfig.json
+C:\Users\ernes\Desktop\Proyectos_VS\Curso_Net_C#\Curso_Net_C#\bin\Debug\net8.0\Curso_Net_C#.dll
+C:\Users\ernes\Desktop\Proyectos_VS\Curso_Net_C#\Curso_Net_C#\bin\Debug\net8.0\Curso_Net_C#.pdb
+C:\Users\ernes\Desktop\Proyectos_VS\Curso_Net_C#\Curso_Net_C#\obj\Debug\net8.0\Curso_Net_C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ernes\Desktop\Proyectos_VS\Curso_Net_C#\Curso_Net_C#\obj\Debug\net8.0\Curso_Net_C#.AssemblyInfoInputs.cache
+C:\Users\ernes\Desktop\Proyectos_VS\Curso_Net_C#\Curso_Net_C#\obj\Debug\net8.0\Curso_Net_C#.AssemblyInfo.cs
+C:\Users\ernes\Desktop\Proyectos_VS\Curso_Net_C#\Curso_Net_C#\obj\Debug\net8.0\Curso_Net_C#.csproj.CoreCompileInputs.cache
+C:\Users\ernes\Desktop\Proyectos_VS\Curso_Net_C#\Curso_Net_C#\obj\Debug\net8.0\Curso_Net_C#.dll
+C:\Users\ernes\Desktop\Proyectos_VS\Curso_Net_C#\Curso_Net_C#\obj\Debug\net8.0\refint\Curso_Net_C#.dll
+C:\Users\ernes\Desktop\Proyectos_VS\Curso_Net_C#\Curso_Net_C#\obj\Debug\net8.0\Curso_Net_C#.pdb
+C:\Users\ernes\Desktop\Proyectos_VS\Curso_Net_C#\Curso_Net_C#\obj\Debug\net8.0\Curso_Net_C#.genruntimeconfig.cache
+C:\Users\ernes\Desktop\Proyectos_VS\Curso_Net_C#\Curso_Net_C#\obj\Debug\net8.0\ref\Curso_Net_C#.dll
